@@ -3,5 +3,5 @@
         "editor.defaultFormatter": "ms-python.black-formatter",
         "editor.formatOnSave": true
     }
-    ,"code-runner.saveFileBeforeRun": true
+    ,"code-runner.saveFileBeforeRun": true,
 }
